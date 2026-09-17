@@ -20,54 +20,7 @@ currently_learning: AWS Cloud (CLF-C02)
 
 ```
 
-- 🔭 Currently working on **POS_VIBE** — an SME Management POS system for Sign Shop Operations
-- 🌱 Learning **AWS Cloud Practitioner (CLF-C02)** & deepening my skills in cloud architecture
-- 💬 Ask me about **Next.js, React, TypeScript, Supabase**
-- ⚡ Fun fact: I believe in building things that solve real problems
 
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-
-
-![](https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,html,css,tailwind&theme=dark)
-
-### ⚙️ Backend & Database
-
-
-
-![](https://skillicons.dev/icons?i=nodejs,python,supabase,postgres,firebase&theme=dark)
-
-### ☁️ Cloud & DevOps
-
-
-
-![](https://skillicons.dev/icons?i=aws,docker,vercel,git,github&theme=dark)
-
-### 🧰 Tools & IDE
-
-
-
-![](https://skillicons.dev/icons?i=vscode,vite,figma,postman&theme=dark)
-
-### 📚 Currently Learning
-
-
-
-![](https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-![](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-![](https://img.shields.io/badge/Kiro_IDE-AI_Powered-6C63FF?style=for-the-badge&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
@@ -81,7 +34,7 @@ currently_learning: AWS Cloud (CLF-C02)
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **POS_VIBE** | SME Management POS for Sign Shop Operations | Next.js 16, React 19, TypeScript, Tailwind 4, Supabase |
+
 | **iExpense** | Personal Expense Tracker & Budget Management | Vue 3.5, TypeScript, Vite, Supabase |
 
 ---
